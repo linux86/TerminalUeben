@@ -1,5 +1,9 @@
 # TerminalUeben
 Stephen
 Haha !
-Stephen 2
+<<<<<<< HEAD
+
 something really clever and creative
+=======
+Stephen 2
+>>>>>>> stephens-branch
